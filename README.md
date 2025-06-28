@@ -21,7 +21,7 @@
 - **A Text Embedding Library** Flair has a simple interface that allows you to use and combine different word and document embeddings, including our proposed Flair embeddings and various transformers.
 - **A PyTorch NLP Framework** Our framework is directly built on PyTorch, making it easy to train your own models and experiment with new approaches using Flair embeddings and classes.
 
-The open-source image product [**Flair Natural Language Processing Tool**](https://marketplace.huaweicloud.com/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac#productid=OFFI1121281251575148544) provided by this project has Flair v0.15.1 and its related runtime environment pre-installed and also offers deployment templates. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
+The open-source image product [**Flair Natural Language Processing Tool**](https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389) provided by this project has Flair v0.15.1 and its related runtime environment pre-installed and also offers deployment templates. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
 
 > **System requirements are as follows:**
 > - CPU: 2vCPUs or higher
